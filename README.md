@@ -1,0 +1,1 @@
+This is a project created with javascript, css and html, to try to guess the number between 1 and 20.
